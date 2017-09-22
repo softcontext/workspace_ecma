@@ -1,0 +1,12 @@
+)]}
+{
+ "version": 3,
+ "sources": "D:\\projectd\\workspace_ecma\\step3\\my-module.es6",
+ "file": "D:\\projectd\\workspace_ecma\\step3\\my-module.js",
+ "sourceRoot": "",
+ "names": [
+  "cube",
+  "x"
+ ],
+ "mappings": ";;;;;kBAAwBA,I;AAAT,SAASA,IAAT,CAAcC,CAAd,EAAiB;AAC9B,SAAOA,IAAIA,CAAJ,GAAQA,CAAf;AACD"
+}

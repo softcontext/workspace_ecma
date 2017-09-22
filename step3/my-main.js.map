@@ -1,0 +1,12 @@
+)]}
+{
+ "version": 3,
+ "sources": "D:\\projectd\\workspace_ecma\\step3\\my-main.es6",
+ "file": "D:\\projectd\\workspace_ecma\\step3\\my-main.js",
+ "sourceRoot": "",
+ "names": [
+  "console",
+  "log"
+ ],
+ "mappings": ";;AAAA;;;;;;AAEAA,QAAQC,GAAR,CAAY,wBAAK,CAAL,CAAZ"
+}
